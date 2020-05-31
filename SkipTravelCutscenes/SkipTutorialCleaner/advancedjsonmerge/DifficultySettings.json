@@ -1,0 +1,9 @@
+{
+	"TargetID": "DifficultySettings",
+	"Instructions": [
+		{
+			"JSONPath": "difficultyList[?(@.ID == 'diff_skipPrologue')]",
+			"Action": "Remove"
+		}
+	]
+}

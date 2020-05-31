@@ -1,0 +1,10 @@
+{
+	"TargetID": "milestone_003_title_coronation_palace",
+	"Instructions": [
+		{
+			"JSONPath": "Results..Stats..value",
+			"Action": "Replace",
+			"Value": 114
+		}
+	]
+}

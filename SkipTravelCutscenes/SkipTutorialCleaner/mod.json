@@ -1,0 +1,13 @@
+{
+	"Name" : "Skip Tutorial Cleaner",
+	"Version" : "0.2",
+	"Enabled" : true,
+	
+	"Manifest": [
+		{
+			"Type": "AdvancedJSONMerge",
+			"Path": "advancedjsonmerge",
+			"ShouldMergeJSON": false
+		}
+	]
+}

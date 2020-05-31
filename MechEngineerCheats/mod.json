@@ -1,0 +1,15 @@
+{
+	"Name": "MechEngineerCheats",
+	"Author": "Maintainer: CptMoore",
+	"Website": "https://github.com/BattletechModders/MechEngineer",
+
+	"Enabled": true,
+	"DependsOn": ["MechEngineer"],
+	"Manifest": [
+		{
+			"Type": "AdvancedJSONMerge",
+			"Path": "advancedjsonmerge",
+			"ShouldMergeJSON": false
+		}
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"TargetID": "chassisdef_atlas_AS7-D",
+	"Instructions": [
+		{
+			"JSONPath": "Locations..Hardpoints..Omni",
+			"Action": "Replace",
+			"Value": true
+		}
+	]
+}

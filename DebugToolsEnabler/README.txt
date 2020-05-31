@@ -1,0 +1,1 @@
+                PlayerPrefs.SetInt("last_debug_state", 1);

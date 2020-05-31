@@ -1,0 +1,20 @@
+[submodule "MechEngineer"]
+	path = MechEngineer
+	url = git@github.com:BattletechModders/MechEngineer.git
+	branch = master
+[submodule "CustomComponents"]
+	path = CustomComponents
+	url = git@github.com:BattletechModders/CustomComponents.git
+	branch = Experimental
+[submodule "DynModLib"]
+	path = DynModLib
+	url = git@github.com:CptMoore/DynModLib.git
+	branch = master
+[submodule "SpeedMod"]
+	path = SpeedMod
+	url = git@github.com:CptMoore/SpeedMod.git
+	branch = master
+[submodule "pansar"]
+	path = pansar
+	url = git@github.com:hokvel/pansar.git
+	branch = master

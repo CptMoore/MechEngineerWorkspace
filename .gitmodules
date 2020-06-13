@@ -2,19 +2,24 @@
 	path = MechEngineer
 	url = git@github.com:BattletechModders/MechEngineer.git
 	branch = master
+	update = rebase
 [submodule "CustomComponents"]
 	path = CustomComponents
 	url = git@github.com:BattletechModders/CustomComponents.git
 	branch = Experimental
+	update = rebase
 [submodule "DynModLib"]
 	path = DynModLib
 	url = git@github.com:CptMoore/DynModLib.git
 	branch = master
+	update = rebase
 [submodule "SpeedMod"]
 	path = SpeedMod
 	url = git@github.com:CptMoore/SpeedMod.git
 	branch = master
+	update = rebase
 [submodule "pansar"]
 	path = pansar
 	url = git@github.com:hokvel/pansar.git
 	branch = master
+	update = rebase

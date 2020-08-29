@@ -1,0 +1,19 @@
+{
+  "logLevel": "info",
+  "features": {
+    "MechlabFix": true,
+    "LoadFixes": false,
+    "NoSalvageSoftlock": false,
+    "DataLoaderGetEntryCheck": false,
+    "ShopTabLagFix": false,
+    "ContractLagFix": false,
+    "EnableLoggingDuringLoads": false,
+    "ExtraLogging": false,
+    "ShaderDependencyOverride": false,
+    "DisableDeployAudio": false,
+    "RemovedFlashpointFix": false,
+    "DisableSimAnimations": false,
+    "RemovedContractsFix": false
+  },
+  "WantContractsLagFixVerify": false
+}

@@ -1,5 +1,5 @@
 {
-	"TargetID": "chassisdef_atlas_AS7-D",
+	"TargetID": "chassisdef_atlas_AS7-D-HT",
 	"Instructions": [
 		{
 			"JSONPath": "Locations..Hardpoints..Omni",

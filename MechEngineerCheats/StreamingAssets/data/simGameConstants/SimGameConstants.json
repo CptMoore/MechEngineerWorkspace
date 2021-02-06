@@ -1,0 +1,6 @@
+{
+   "Story" : {
+		"DefaultRoninHiringChance" : 1,
+		"MaxMechWarriorsPerPod" : 16
+   }
+}

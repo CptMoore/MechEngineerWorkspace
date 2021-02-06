@@ -23,3 +23,8 @@
 	url = git@github.com:hokvel/pansar.git
 	branch = master
 	update = rebase
+[submodule "BT-FYLS"]
+	path = BT-FYLS
+	url = git@github.com:BattletechModders/BT-FYLS.git
+	branch = canon
+	update = rebase

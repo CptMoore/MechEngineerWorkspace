@@ -1,0 +1,12 @@
+{
+	"testToolsEnabled": true,
+	"DisableCinematics": true,
+	"disableSplashScreens": true,
+	"disableIntroMovie": true,
+	"loggerLevels" : [
+		{
+			"k" : "*",
+			"v" : "Debug"
+		}
+	]
+}

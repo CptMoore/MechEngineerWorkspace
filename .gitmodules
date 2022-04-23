@@ -6,7 +6,7 @@
 [submodule "CustomComponents"]
 	path = CustomComponents
 	url = git@github.com:BattletechModders/CustomComponents.git
-	branch = Experimental
+	branch = UnitTypes
 	update = rebase
 [submodule "DynModLib"]
 	path = DynModLib
@@ -27,4 +27,9 @@
 	path = BT-FYLS
 	url = git@github.com:BattletechModders/BT-FYLS.git
 	branch = canon
+	update = rebase
+[submodule "AssemblyPublicizer"]
+	path = AssemblyPublicizer
+	url = git@github.com:CptMoore/AssemblyPublicizer.git
+	branch = master
 	update = rebase

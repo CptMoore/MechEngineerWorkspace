@@ -6,10 +6,5 @@
 	"Enabled": true,
 	"DependsOn": ["MechEngineer"],
 	"Manifest": [
-		{
-			"Type": "AdvancedJSONMerge",
-			"Path": "advancedjsonmerge",
-			"ShouldMergeJSON": false
-		}
 	]
 }

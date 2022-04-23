@@ -20,7 +20,7 @@
 	update = rebase
 [submodule "pansar"]
 	path = pansar
-	url = git@github.com:hokvel/pansar.git
+	url = git@github.com:CptMoore/pansar.git
 	branch = master
 	update = rebase
 [submodule "AssemblyPublicizer"]

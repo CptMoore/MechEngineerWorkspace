@@ -6,7 +6,7 @@
 	"loggerLevels" : [
 		{
 			"k" : "*",
-			"v" : "Debug"
+			"v" : "Error"
 		}
 	]
 }

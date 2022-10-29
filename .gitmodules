@@ -23,8 +23,13 @@
 	url = git@github.com:CptMoore/pansar.git
 	branch = master
 	update = rebase
-[submodule "AssemblyPublicizer"]
-	path = AssemblyPublicizer
-	url = git@github.com:CptMoore/AssemblyPublicizer.git
+[submodule "BattletechPerformanceFix"]
+	path = BattletechPerformanceFix
+	url = git@github.com:BattletechModders/BattletechPerformanceFix.git
+	branch = master
+	update = rebase
+[submodule "CustomFilters"]
+	path = CustomFilters
+	url = git@github.com:BattletechModders/CustomFilters.git
 	branch = master
 	update = rebase

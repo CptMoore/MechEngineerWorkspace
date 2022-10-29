@@ -8,11 +8,6 @@
 	url = git@github.com:BattletechModders/CustomComponents.git
 	branch = UnitTypes
 	update = rebase
-[submodule "DynModLib"]
-	path = DynModLib
-	url = git@github.com:CptMoore/DynModLib.git
-	branch = master
-	update = rebase
 [submodule "SpeedMod"]
 	path = SpeedMod
 	url = git@github.com:CptMoore/SpeedMod.git

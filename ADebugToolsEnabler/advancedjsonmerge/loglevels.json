@@ -1,0 +1,17 @@
+{
+	"TargetID": "settings",
+	"Instructions": [
+		{
+			"JSONPath": "loggerLevels[?(@.k == 'MapExport')]",
+			"Action": "Remove"
+		},
+		{
+			"JSONPath": "loggerLevels[?(@.k == 'Sysinfo')]",
+			"Action": "Remove"
+		},
+		{
+			"JSONPath": "loggerLevels[?(@.k == 'ModLoader')]",
+			"Action": "Remove"
+		}
+	]
+}

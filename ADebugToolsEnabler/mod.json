@@ -5,5 +5,13 @@
     "Description": " ",
     "Category": "tools",
 	
-	"Version": "1.0"
+	"Version": "1.0",
+
+	"Manifest": [
+		{
+			"Type": "AdvancedJSONMerge",
+			"Path": "advancedjsonmerge",
+			"ShouldMergeJSON": false
+		}
+	]
 }

@@ -6,7 +6,7 @@
 [submodule "CustomComponents"]
 	path = CustomComponents
 	url = git@github.com:BattletechModders/CustomComponents.git
-	branch = UnitTypes
+	branch = main
 	update = rebase
 [submodule "SpeedMod"]
 	path = SpeedMod

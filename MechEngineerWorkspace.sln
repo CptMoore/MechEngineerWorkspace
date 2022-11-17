@@ -5,8 +5,14 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomComponents", "CustomComponents\source\CustomComponents.csproj", "{7E755F55-106A-4F0D-A970-0BA7FC6C5662}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomFilters", "CustomFilters\source\CustomFilters.csproj", "{AF2FC9C6-1A2E-4CE8-864D-8880388EBA4D}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7E755F55-106A-4F0D-A970-0BA7FC6C5662} = {7E755F55-106A-4F0D-A970-0BA7FC6C5662}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MechEngineer", "MechEngineer\source\MechEngineer.csproj", "{153FF0A3-0D95-48DD-93FD-4B9557C9A8BA}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7E755F55-106A-4F0D-A970-0BA7FC6C5662} = {7E755F55-106A-4F0D-A970-0BA7FC6C5662}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeedMod", "SpeedMod\source\SpeedMod.csproj", "{3712413D-F483-425D-83F4-56C697FFBBF7}"
 EndProject

@@ -6,5 +6,5 @@ set -ex
 #git submodule sync
 git submodule update --init --remote
 git submodule foreach 'git checkout master || :'
-git submodule foreach 'git checkout UnitTypes || :'
+git submodule foreach 'git checkout main || :'
 git submodule foreach git pull

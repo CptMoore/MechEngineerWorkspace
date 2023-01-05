@@ -1,0 +1,6 @@
+{
+	"testToolsEnabled": true,
+	"DisableCinematics": true,
+	"disableSplashScreens": true,
+	"disableIntroMovie": true
+}

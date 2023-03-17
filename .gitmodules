@@ -28,3 +28,13 @@
 	url = git@github.com:BattletechModders/CustomFilters.git
 	branch = master
 	update = rebase
+[submodule "LewdableTanks"]
+	path = LewdableTanks
+	url = git@github.com:BattletechModders/LewdableTanks.git
+	branch = main
+	update = rebase
+[submodule "CustomSalvage"]
+	path = CustomSalvage
+	url = git@github.com:BattletechModders/CustomSalvage.git
+	branch = master
+	update = rebase

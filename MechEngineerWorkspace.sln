@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LewdableTanks", "LewdableTa
 		{7E755F55-106A-4F0D-A970-0BA7FC6C5662} = {7E755F55-106A-4F0D-A970-0BA7FC6C5662}
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Benchmark", "Benchmark\Benchmark.csproj", "{939F185A-04AF-4AD2-A3CA-F467D1852719}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -61,5 +63,9 @@ Global
 		{F5F0B963-2D2E-4E36-973C-45A215132A86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5F0B963-2D2E-4E36-973C-45A215132A86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5F0B963-2D2E-4E36-973C-45A215132A86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{939F185A-04AF-4AD2-A3CA-F467D1852719}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{939F185A-04AF-4AD2-A3CA-F467D1852719}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{939F185A-04AF-4AD2-A3CA-F467D1852719}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{939F185A-04AF-4AD2-A3CA-F467D1852719}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

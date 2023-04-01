@@ -125,7 +125,8 @@ public class TraditionalLogger
         }
     }
 
-    public void Log([StringSyntax(StringSyntaxAttribute.CompositeFormat)] string format, params object?[] args)
+    // [StringSyntax(StringSyntaxAttribute.CompositeFormat)]
+    public void Log(string format, params object?[] args)
     {
         if (Level == null || Level > 0)
         {

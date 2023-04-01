@@ -7,7 +7,8 @@ public static class Program
 {
     public static void Main(string[] args)
     {
-        BenchmarkRunner.Run<TryCatchBenchmark>();
+        BenchmarkRunner.Run<HarmonyXBenchmark>();
+        // BenchmarkRunner.Run<CallBenchmark>();
         // BenchmarkRunner.Run<LoggingBenchmark>();
     }
 }

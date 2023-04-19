@@ -34,6 +34,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomComponentsTests", "Cu
 		{7E755F55-106A-4F0D-A970-0BA7FC6C5662} = {7E755F55-106A-4F0D-A970-0BA7FC6C5662}
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewSaveFolder", "NewSaveFolder\source\NewSaveFolder.csproj", "{599517CB-3973-4D93-8DAF-47AEF02209CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -76,5 +78,9 @@ Global
 		{6ECB4B7E-3492-45D4-A2E9-91DF4990AE7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6ECB4B7E-3492-45D4-A2E9-91DF4990AE7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6ECB4B7E-3492-45D4-A2E9-91DF4990AE7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{599517CB-3973-4D93-8DAF-47AEF02209CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{599517CB-3973-4D93-8DAF-47AEF02209CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{599517CB-3973-4D93-8DAF-47AEF02209CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{599517CB-3973-4D93-8DAF-47AEF02209CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

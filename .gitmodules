@@ -38,3 +38,8 @@
 	url = git@github.com:BattletechModders/CustomSalvage.git
 	branch = master
 	update = rebase
+[submodule "NewSaveFolder"]
+	path = NewSaveFolder
+	branch = master
+	url = git@github.com:BattletechModders/NewSaveFolder.git
+	update = rebase

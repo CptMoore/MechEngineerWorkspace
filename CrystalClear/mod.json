@@ -1,0 +1,32 @@
+﻿{
+  "Name": "CrystalClear",
+  "Version": "2.6",
+  "Enabled": true,
+  "DLL": "CrystalClear.dll",
+
+  "Settings": {
+    "Grain": "OFF",
+    "Dithering": "OFF",
+    "Vignette": "OFF",
+    "Bloom": "OFF",
+    "UIBloom": "OFF",
+    "Grunge": "OFF",
+    "Scanlines": "OFF",
+    "DustStorms": "OFF",
+    "Pollen": "OFF",
+    "Rain": "NOTSET",
+    "Mist": "OFF",
+    "TurnBanner": "OFF",
+    "MotionBlur": "OFF",
+    "Shadows": "NOTSET",
+    "AmbientOcclusion": "OFF",
+    "Taa": "OFF",
+    "DepthOfField": "OFF",
+    "Fxaa": "OFF",
+    "HDR": "NOTSET",
+    "ChromaticAberration": "OFF",
+    "EyeAdaptation": "NOTSET",
+    "Fog": "OFF",
+    "ColorGrading": "NOTSET"
+  }
+}

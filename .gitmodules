@@ -43,3 +43,8 @@
 	branch = master
 	url = git@github.com:BattletechModders/NewSaveFolder.git
 	update = rebase
+[submodule "RogueTechPerfFixes"]
+	path = RogueTechPerfFixes
+	branch = master
+	url = git@github.com:BattletechModders/RogueTechPerfFixes.git
+	update = rebase

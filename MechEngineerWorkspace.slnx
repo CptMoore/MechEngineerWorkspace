@@ -1,0 +1,25 @@
+﻿<Solution>
+  <Project Path="BattletechPerformanceFix\source\BattletechPerformanceFix.csproj" Type="Classic C#" />
+  <Project Path="Benchmark\Benchmark.csproj" Type="Classic C#" />
+  <Project Path="CustomComponents\source\CustomComponentsTests\CustomComponentsTests.csproj" Type="Classic C#">
+    <BuildDependency Project="CustomComponents\source\CustomComponents\CustomComponents.csproj" />
+  </Project>
+  <Project Path="CustomComponents\source\CustomComponents\CustomComponents.csproj" Type="Classic C#" />
+  <Project Path="CustomFilters\source\CustomFilters.csproj" Type="Classic C#">
+    <BuildDependency Project="CustomComponents\source\CustomComponents\CustomComponents.csproj" />
+  </Project>
+  <Project Path="CustomSalvage\source\CustomSalvage.csproj" Type="Classic C#">
+    <BuildDependency Project="CustomComponents\source\CustomComponents\CustomComponents.csproj" />
+  </Project>
+  <Project Path="LewdableTanks\source\LewdableTanks.csproj" Type="Classic C#">
+    <BuildDependency Project="CustomComponents\source\CustomComponents\CustomComponents.csproj" />
+    <BuildDependency Project="CustomSalvage\source\CustomSalvage.csproj" />
+  </Project>
+  <Project Path="MechEngineer\source\MechEngineer.csproj" Type="Classic C#">
+    <BuildDependency Project="CustomComponents\source\CustomComponents\CustomComponents.csproj" />
+  </Project>
+  <Project Path="NewSaveFolder\source\NewSaveFolder.csproj" Type="Classic C#" />
+  <Project Path="RogueTechPerfFixes\RogueTechPerfFixesInjector\RogueTechPerfFixesInjector.csproj" Type="Classic C#" />
+  <Project Path="RogueTechPerfFixes\RogueTechPerfFixes\RogueTechPerfFixes.csproj" Type="Classic C#" />
+  <Project Path="SpeedMod\source\SpeedMod.csproj" Type="Classic C#" />
+</Solution>
